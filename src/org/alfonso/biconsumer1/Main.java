@@ -1,4 +1,4 @@
-package org.alfonso.biconsumer2;
+package org.alfonso.biconsumer1;
 
 import java.util.function.BiConsumer;
 
